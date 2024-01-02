@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+###Hello there! 👋 I'm Hossaine, a passionate and motivated junior software developer with a love for turning ideas into functional and efficient code. My journey in the world of technology is driven by a deep curiosity and a desire to create meaningful solutions that make a positive impact
 <!--
 **H11SAINE/h11saine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
